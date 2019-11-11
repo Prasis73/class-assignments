@@ -21,3 +21,4 @@ mul=first*second
 div=first/second
 print("addition= %d \n subtraction= %d \nmultiplication= %d \n division= %d" %(add,sub,mul,div))
 #print(type(c))
+print("prasis")
