@@ -198,7 +198,7 @@ while b>1:
     elif a=='N':
         print("******   *   *     *       *   *     *  *      *    *      \n"
               "  *      *****    ****     * * *     **        *    *\n"
-              "  *      *   *   *    *    *   *     *  *       * * *   ")
+              "  *      *   *   *    *    *   *     *  *       * * *    ")
         break
     else:
         print("enter valid character")
