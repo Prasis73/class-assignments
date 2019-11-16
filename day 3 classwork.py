@@ -11,7 +11,7 @@ print("total marks=",total)
 print(sum(list))'''
 
 #take string and count any string
-'''name=(input("enter string"))
+name=(input("enter string"))
 #name.upper()
 no=input("enter string to be counted")
 a=no.upper()
@@ -20,7 +20,7 @@ c=name.count(a)
 d=name.count(b)
 e=c+d
 print(e)
-#print(name.count(no))'''
+#print(name.count(no))
 
 '''print("maximum number",max(list))
 print("minimum number",min(list))'''
@@ -29,7 +29,7 @@ print("minimum number",min(list))'''
 #print(name.upper())    #for uppercase
 
 #Replacing
-name=(input("enter string"))
+'''name=(input("enter string"))
 c=name.replace(input("enter string to be replaced:"),input("replaced by:"))
-print(c)
+print(c)'''
 
