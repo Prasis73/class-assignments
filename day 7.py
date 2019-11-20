@@ -16,11 +16,12 @@ print(ans)'''
 
 
 #To check armstrong number
-'''num = int(input("Enter a number: "))
+num = int(input("Enter a number: "))
 a= num
 def arm(num):
     sum=0
     a=num
+    f=len(num)
     while a > 0:
         b = a % 10   #remainder gives last digit
         sum += b ** 3    #adds the last digit cube with sum
@@ -30,10 +31,12 @@ sum=arm(num)
 if num == sum:
    print(num,"is an Armstrong number")
 else:
-   print(num,"is not an Armstrong number")  '''
+   print(num,"is not an Armstrong number")
+
+
 
 # to check palindrome
-num=int(input("Enter a number:"))
+'''num=int(input("Enter a number:"))
 def pal(num):
     c = 0
     while(num>0):
@@ -45,4 +48,4 @@ a=pal(num)
 if(num==a):
     print("palindrome")
 else:
-    print("not palindrome")
+    print("not palindrome")'''

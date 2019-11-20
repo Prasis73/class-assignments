@@ -19,7 +19,7 @@ while age.isalpha() == True or age1<18:
     if age.isalpha()==False or age1>18:
         break
 phone=input("enter your phone number")
-while phone.isalpha()==True and phone.count("")!=10:
+while phone.isalpha()==True or phone.count("")!=10:
     Print=("Invalid phone number!!")
     phone = input("enter your phone number")
     continue
