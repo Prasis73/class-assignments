@@ -1,12 +1,12 @@
 print("INtern classes")
-'''a=3
+a=3
 b=5
 c=a+b
 print(c)
 print("a"+"b")
 print("h\ne\nl\nl\no")
 name="Prasis Rijal"
-print("My name is",name)'''
+print("My name is",name)
 first_name=input("enter first name")
 last_name=input("enter last name")
 age=input("enter age")

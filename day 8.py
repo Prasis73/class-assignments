@@ -1,3 +1,4 @@
+
 #to make notepad
 '''f=open("file.txt","w")
 text=input("write until you type quit ")
@@ -60,9 +61,9 @@ print(list)'''
     f.write(" " + old)  # write the new line before '''
 
 #using comprehenssion to get prime number
-lst=[x for x in range (0,100) for y in range(2,100) if x%y!=0]
+'''lst=[x for x in range (0,100) for y in range(2,100) if x%y!=0]
 print(lst)
-'''list_com=[x for x in range(1,2500)]
+list_com=[x for x in range(1,2500)]
 for x in list_com:
     if x > 1:
         for i in range(2, x):
