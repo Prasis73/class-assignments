@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04bb0fb2-19b2-40f4-ab30-413ca3cba16a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator-gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nep.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/day 9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_10.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +27,13 @@
   <component name="ProjectId" id="1TS1GQ0zNqR7ySzBdJLGPBK3Myz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Samsung\PycharmProjects\intern" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.day_10">
+  <component name="RunManager" selected="Python.calculator-gui">
     <configuration name="Day-6 assig calculator" type="PythonConfigurationType" factoryName="Python">
       <module name="intern" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="calculator-gui" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="intern" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,28 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="day 7" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="intern" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day 7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculator-gui.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,13 +153,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="day_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="intern" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calculator-gui" />
+        <item itemvalue="Python.day_11" />
         <item itemvalue="Python.day_10" />
         <item itemvalue="Python.day 8" />
         <item itemvalue="Python.day 9" />
-        <item itemvalue="Python.day 7" />
-        <item itemvalue="Python.calculator" />
       </list>
     </recent_temporary>
   </component>

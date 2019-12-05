@@ -34,8 +34,8 @@ os.rename('file.txt','myfile.txt')  #source,destination'''
 
 
 import numpy as np
-a= np.array([[1,2,3],[3,4,5]])
+'''a= np.array([[1,2,3],[3,4,5]])
 print(a)
 print(a.shape)
-print(a[0,1])
+print(a[0,1])'''
 
