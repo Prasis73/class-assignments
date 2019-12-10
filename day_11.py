@@ -30,4 +30,6 @@ but1.pack()
 entry=Entry(root,bd=7)
 entry.pack()
 #var.pack()
+
+
 root.mainloop()

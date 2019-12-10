@@ -1,4 +1,5 @@
 from tkinter import *
+import math
 result = ""
 def press(num):
     global result
@@ -19,7 +20,8 @@ def equalpress():
 def clear():
     global result
     result = ""
-    equation.set("")
+    equation.set("enter your expression")
+
 
 
 if __name__ == "__main__":
@@ -27,7 +29,7 @@ if __name__ == "__main__":
     root = Tk()
     root.configure(background="blue")
     root.title("CALCULATOR")
-    root.geometry("450x270")
+    root.geometry("450x330")
     equation = StringVar()
     result_field= Entry(root,bd=7,font=("",18), textvariable=equation)
     result_field.grid(padx=20,columnspan=4, ipadx=70)
@@ -81,7 +83,9 @@ if __name__ == "__main__":
     add.grid(row=5, column='2')
 
     equal = Button(root, text=' = ', fg='black', bg='pink', command=equalpress, height=3, width=10)
-    equal.grid(row=5, column=1)
+    equal.grid(row=6,column="0")
+    remainder = Button(root, text=' Remainder ', fg='black', bg='pink', command=lambda:press("%"), height=3, width=10)
+    remainder.grid(row=5, column=1)
 
 
 
