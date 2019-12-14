@@ -29,7 +29,7 @@ if __name__ == "__main__":
     root = Tk()
     root.configure(background="blue")
     root.title("CALCULATOR")
-    root.geometry("450x330")
+    root.geometry('450x330')
     equation = StringVar()
     result_field= Entry(root,bd=7,font=("",18), textvariable=equation)
     result_field.grid(padx=20,columnspan=4, ipadx=70)

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04bb0fb2-19b2-40f4-ab30-413ca3cba16a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/image_encrypt_GUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image_encryption_NOT_GUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login_tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tryyyy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator-gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator-gui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_encrypt_GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_encrypt_GUI.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,27 +89,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day-12" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="intern" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day-12.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="image_encrypt_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="intern" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,13 +152,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tryyyy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="intern" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tryyyy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.image_encrypt_GUI" />
+        <item itemvalue="Python.tryyyy" />
         <item itemvalue="Python.calculator-gui" />
         <item itemvalue="Python.image_encryption" />
         <item itemvalue="Python.login_tkinter" />
-        <item itemvalue="Python.day-12" />
       </list>
     </recent_temporary>
   </component>
